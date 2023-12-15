@@ -25,7 +25,7 @@ Na Fatec SJC, nós alunos aprendemos o uso da metodologia ágil :runner:, onde �
 -  [x] [3º Semestre](https://gitlab.com/vitorlimadomingues/3periodo_devstore)
 -  [x] [4º Semestre](https://gitlab.com/vueforce1/lefoot)
 -  [x] [5º Semestre](https://github.com/TechNinjass/APIMidAll)
--  [ ] 6º Semestre
+-  [X] [6º Semestre](https://github.com/TechVisionn/tech-parent)
 
 <a href= "https://www.linkedin.com/in/orlando-pereira-a09ba9214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href= "https://www.instagram.com/orf_seixas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
